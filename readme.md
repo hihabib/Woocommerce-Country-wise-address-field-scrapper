@@ -11,4 +11,4 @@ This tool can be used to capture address information from users, similar to the 
 
 ## Sample Scrapped Data
 
-The scrapped data is available in `data.json` (Scrapped on: 23 December, 2024). Note that the "first name" and "last name" fields have been removed, and the "(option)" text has been removed from the "Phone" field in `data.json`.
+The scrapped data is available in `data.json` (Scrapped on: 23 December, 2024). Note that the "first name", "last name" and "Country/Region" fields have been removed, and the "(option)" text has been removed from the "Phone" field in `data.json`.
